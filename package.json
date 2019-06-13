@@ -23,11 +23,11 @@
   "homepage": "https://bitbucket.org/gcgfurb/gabrielzanluca#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
     "http-server": "^0.11.1",
-    "webpack": "^3.11.0"
+    "webpack": "^3.12.0"
   },
   "dependencies": {
     "babel-plugin-transform-builtin-extend": "^1.1.2",
